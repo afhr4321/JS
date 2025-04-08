@@ -1,2 +1,2 @@
 # JS
-A place for JS code
+A repository for JS code
